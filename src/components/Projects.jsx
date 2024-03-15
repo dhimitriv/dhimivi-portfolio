@@ -9,10 +9,7 @@ import Market from "../assets/Market.jpg";
 
 function Projects() {
   return (
-    <div
-      name="projects"
-      className="text-gray-300 w-full md:h-screen bg-[#064d50]"
-    >
+    <div name="projects" className="text-gray-300 w-full bg-[#064d50]">
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="pb-8 pl-7">
           <p className="text-4xl font-semibold border-b-2 inline border-blue-500">
